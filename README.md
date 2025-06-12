@@ -1,1 +1,2 @@
-hi,i have written a smart contract(currently underprocess) of a voting system and devloped its frontend UI.
+Emoji-Predictor
+The model uses Long Short-Term Memory (LSTM) networks to analyze text and accurately suggest relevant emojis. Preprocessed text data, optimized the LSTM architecture, and achieved high prediction accuracy. Enhanced user engagement by providing context-aware emoji suggestions.
